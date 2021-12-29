@@ -1,2 +1,2 @@
 # sort
-Bucket, Counting, and Radix sorting algorithms with simple, hard-coded test cases to test reliability and integrity.
+Run 'Algorithm' files; 'Element' files are used as element objects by the algorithms to ensure algorithms work correctly.
